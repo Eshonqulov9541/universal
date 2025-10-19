@@ -1,0 +1,448 @@
+Uri: https://universalbank.uz/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/favicon.ico
+File Name: C:\Downloaded Web Sites\universalbank.uz\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://universalbank.uz/files/invest_7_5_axborot_varaqasi_6a9df44a_68ba7b62.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\invest_7_5_axborot_varaqasi_6a9df44a_68ba7b62.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/invest_7_5_shartnomasi_e54558f0_03128ee0.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\invest_7_5_shartnomasi_e54558f0_03128ee0.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/kelajakka_sarmoya_axborot_varaqasi_namunaviy_shakli_31cf2c74_38595e19.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\kelajakka_sarmoya_axborot_varaqasi_namunaviy_shakli_31cf2c74_38595e19.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/kelajakka_sarmoya_onlayn_oferta_shartnomasi_f6003400_915e27dc.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\kelajakka_sarmoya_onlayn_oferta_shartnomasi_f6003400_915e27dc.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/kelajakka_sarmoya_shartnomasi_shabloni_97b5a7a9_5fe8c905.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\kelajakka_sarmoya_shartnomasi_shabloni_97b5a7a9_5fe8c905.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/qulay_daromad_axborot_varaqasi_namunaviy_shakli_eec20716_967041a1.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\qulay_daromad_axborot_varaqasi_namunaviy_shakli_eec20716_967041a1.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/qulay_daromad_shartnomasi_shabloni_a8ee635d_1b7d2694.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\qulay_daromad_shartnomasi_shabloni_a8ee635d_1b7d2694.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/smart8_axborot_varaqasi_770af713_5c4227cd.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\smart8_axborot_varaqasi_770af713_5c4227cd.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/smart8_muddatli__pasporti_44b61249_0db5ca36.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\smart8_muddatli__pasporti_44b61249_0db5ca36.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/smart8_omonat_shartnomasi_76b088a7_d88fba15.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\smart8_omonat_shartnomasi_76b088a7_d88fba15.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/smart_5_axborot_varaqasi_namunaviy_shakli_e6430171_ed382ad8.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\smart_5_axborot_varaqasi_namunaviy_shakli_e6430171_ed382ad8.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/files/smart_5_shartnomasi_shabloni_3374badd_a0a411ce.docx
+File Name: C:\Downloaded Web Sites\universalbank.uz\files\smart_5_shartnomasi_shabloni_3374badd_a0a411ce.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://universalbank.uz/pictures/bomf_png_b0c794be_2d2ebb8d.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\bomf_png_b0c794be_2d2ebb8d.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/dwm_png_4613ffe6_5ecb0a12.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\dwm_png_4613ffe6_5ecb0a12.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/ebrdlogoregularblueenglish_png_d3e4b637_d1932f26.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\ebrdlogoregularblueenglish_png_d3e4b637_d1932f26.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/eq_png_9087657e_a39fe323.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\eq_png_9087657e_a39fe323.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Card_b20eba337b.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Card_b20eba337b.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Farovon_15_ced713a559.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Farovon_15_ced713a559.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Kredit_karat_f9d6b68846.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Kredit_karat_f9d6b68846.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Maxsus_Taklif_229b61e436.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Maxsus_Taklif_229b61e436.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Smat_5_b746f0f51d.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Smat_5_b746f0f51d.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Property_1_Usefl_13_bf2aa7a1e2.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Property_1_Usefl_13_bf2aa7a1e2.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/Rectangle_76_4e712f852c.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\Rectangle_76_4e712f852c.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/suminv_png_2c7681d1_502fff45.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\suminv_png_2c7681d1_502fff45.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/pictures/triple_jump_png_560149e0_986ec56d.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\pictures\triple_jump_png_560149e0_986ec56d.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/ru/about
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\about.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/appeals
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\appeals.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/branches
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\branches.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards/humo
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards\humo.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards/union-pay
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards\union-pay.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards/uzcard
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards\uzcard.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards/visa
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards\visa.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/cards/visa-infinite-
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\cards\visa-infinite-.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit/invest-7.5
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit (1)\invest-7.5.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit/kelajakka-sarmoya
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit (1)\kelajakka-sarmoya.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit/qulay-daromad
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit (1)\qulay-daromad.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit/smart-5
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit (1)\smart-5.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/deposit/smart-8
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\deposit (1)\smart-8.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/financial-institutions
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\financial-institutions.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/individual/client-rights
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\individual\client-rights.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/individual/survey
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\individual\survey.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/investment-funds
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\investment-funds
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/juristic
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\juristic.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies/data-engineer
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies\data-engineer.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies/database-administrator
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies\database-administrator.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies/flutter-developer
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies\flutter-developer.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies/net-engineer
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies\net-engineer.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/ru/vacancies/senior-devops-engineer
+File Name: C:\Downloaded Web Sites\universalbank.uz\ru\vacancies\senior-devops-engineer.html
+Content Type: text/html
+
+Uri: https://universalbank.uz/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/0264fe8.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\0264fe8.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/0e17002.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\0e17002.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/0f13911.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\0f13911.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/0fb5163.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\0fb5163.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/1ab13e4.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\1ab13e4.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/2b0dc5d.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\2b0dc5d.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/31fd416.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\31fd416.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/5256b5f.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\5256b5f.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/62bdbdf.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\62bdbdf.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/6337d2e.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\6337d2e.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/785ed65.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\785ed65.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/7d21f20.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\7d21f20.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/7fb2b90.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\7fb2b90.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/820b28e.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\820b28e.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/8d4d3aa.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\8d4d3aa.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/8e88f27.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\8e88f27.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/9f6926f.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\9f6926f.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/a2c7937.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\a2c7937.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/b5f2098.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\b5f2098.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/b83af89.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\b83af89.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/d00e5b8.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\d00e5b8.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/d2ffd0a.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\d2ffd0a.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/dc795b3.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\dc795b3.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/f8b9642.js
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\f8b9642.js
+Content Type: application/javascript
+
+Uri: https://universalbank.uz/_nuxt/ffce47777e4239a8559910b0a4772ef5.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\ffce47777e4239a8559910b0a4772ef5.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-Medium.c83281a.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-Medium.c83281a.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-MediumItalic.5d08cc9.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-MediumItalic.5d08cc9.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-Regular.31ff7c1.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-Regular.31ff7c1.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-RegularItalic.b564aec.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-RegularItalic.b564aec.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-SemiBold.a5cf732.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-SemiBold.a5cf732.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/fonts/Gilroy-SemiBoldItalic.e2389bf.ttf
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\fonts\Gilroy-SemiBoldItalic.e2389bf.ttf
+Content Type: font/ttf
+
+Uri: https://universalbank.uz/_nuxt/img/bannercard.dff3dac.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\bannercard.dff3dac.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/card1.754145b.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\card1.754145b.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/card2.aed441e.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\card2.aed441e.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/counter.80c3622.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\counter.80c3622.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/form.5ee4b61.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\form.5ee4b61.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/ImagePhone.6f84db2.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\ImagePhone.6f84db2.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/logo.af9d595.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\logo.af9d595.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/main.c3bd7a5.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\main.c3bd7a5.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/mobile.7819b2e.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\mobile.7819b2e.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/mobile.b9901da.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\mobile.b9901da.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/moneta1.b283ae1.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta1.b283ae1.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta2.94c04e0.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta2.94c04e0.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta3.750270b.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta3.750270b.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta4.6faae0b.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta4.6faae0b.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta5.c8e6785.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta5.c8e6785.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta6.f527158.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta6.f527158.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta7.62db887.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta7.62db887.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/moneta8.9022a36.svg
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\moneta8.9022a36.svg
+Content Type: image/svg+xml
+
+Uri: https://universalbank.uz/_nuxt/img/RightPhone.434bd56.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\RightPhone.434bd56.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/statisticImage.24af0bb.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\statisticImage.24af0bb.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/viento.1ca6e3d.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\viento.1ca6e3d.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/img/yandexImageInformer.a50472c.png
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\img\yandexImageInformer.a50472c.png
+Content Type: image/png
+
+Uri: https://universalbank.uz/_nuxt/manifest.260fbf3d.json
+File Name: C:\Downloaded Web Sites\universalbank.uz\_nuxt\manifest.260fbf3d.json
+Content Type: application/json
+
